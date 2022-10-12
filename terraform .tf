@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "ap-south-1"
-  access_key = "AKIA5H6FOYKDLCJ6NX73"
-  secret_key = "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"
+  access_key = "awskey"
+  secret_key = "awssecret key"
 }
 
 resource "aws_instance" "Adfx"{
